@@ -11,8 +11,6 @@ import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
 
-// only testing
-
 public class hackerSim {
 
     private static String server = "jdbc:mysql://localhost:3306/hackerSimulator";
