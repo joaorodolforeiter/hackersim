@@ -66,7 +66,7 @@ public class hackerSim {
 
             loginButton.addActionListener(this::loginUser);
 
-            createAccountButton.addActionListener(this::createAccount);
+            createAccountButton.addActionListener(this::createUser);
 
             configButton.addActionListener(this::configServer);
 
@@ -98,7 +98,7 @@ public class hackerSim {
 
         }
 
-        private void createAccount(ActionEvent e) {
+        private void createUser(ActionEvent e) {
 
             if (!createUserField.getText().replace(" ", "").equals("")) {
 
