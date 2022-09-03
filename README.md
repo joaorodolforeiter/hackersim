@@ -1,2 +1,2 @@
 # hackersim
-the best hackersim of the world
+the best hackersim in the world
