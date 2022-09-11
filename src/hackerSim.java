@@ -15,7 +15,7 @@ public class hackerSim {
 
     private static String server = "jdbc:mysql://localhost:3306/hackerSimulator";
     private static String serverLogin = "root";
-    private static String serverPasswd = "NikoBellic";
+    private static String serverPasswd = "";
 
     private static int idUser;
     private static long dinheiro;
